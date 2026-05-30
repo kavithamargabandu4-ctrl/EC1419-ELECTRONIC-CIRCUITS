@@ -5,8 +5,10 @@
 
 
 ## ATTACH THE CORRECT CIRCUIT
+<img width="720" height="622" alt="image" src="https://github.com/user-attachments/assets/d11bb8d2-e7fc-4b60-be35-1d605e1d2bbe" />
 
 ## GRAPHS
+<img width="683" height="898" alt="image" src="https://github.com/user-attachments/assets/088b730f-5c46-4b69-a86c-9ce8d6dfeaf9" />
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
